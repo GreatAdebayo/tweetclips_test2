@@ -1,0 +1,33 @@
+{
+  "name": "tweetclip-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@remotion/cli": "^3.3.5",
+    "@remotion/google-fonts": "^3.3.5",
+    "@remotion/lambda": "^3.3.5",
+    "@remotion/player": "^3.3.5",
+    "aos": "^2.3.4",
+    "axios": "^1.2.0",
+    "formik": "^2.2.9",
+    "framer-motion": "^7.6.17",
+    "next": "13.0.5",
+    "notiflix": "^3.2.5",
+    "react": "18.2.0",
+    "react-best-gradient-color-picker": "^2.1.11",
+    "react-dom": "18.2.0",
+    "remotion": "^3.3.5",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4"
+  }
+}
